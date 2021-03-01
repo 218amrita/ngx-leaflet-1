@@ -77,5 +77,8 @@
 		"webpack-dev-server": "3",
 		"webpack-stats-plugin": "0.3",
 		"zone.js": "0.10"
+	},
+	"dependencies": {
+		"@angular/cli": "^11.2.2"
 	}
 }
